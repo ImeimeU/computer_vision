@@ -1,0 +1,1 @@
+The aim of this project is to develop a machine learning model capable of accurately classifying wildlife species from camera trap images, thereby supporting automated wildlife monitoring and conservation efforts.
