@@ -1,0 +1,7 @@
+# Ignore all data folders in any project
+**/data/
+
+# Ignore common junk
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
